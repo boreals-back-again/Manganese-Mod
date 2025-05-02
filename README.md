@@ -40,7 +40,7 @@ WIP
 ## 💕 Credits & Attributions
 
 ### 👩‍💻 Developers
-- Permdog99
+- AzaleaCatgirl99
 
 ### 🎁 Special Thanks
 - Boreal for general assistance
